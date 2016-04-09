@@ -1,0 +1,44 @@
+#header {
+  width: 60%;
+  height: 80px;
+  background-color: #cf3;
+}
+body {
+  background-color: #036;
+}
+h1 {
+  width: 100%;
+  height: auto;
+  color: #036;
+  text-align: left;
+  padding: 20px;
+  font-family: helvetica;
+  font-size: 40px;
+}
+li {
+  text-decoration: none;
+  display: block;
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+ul {
+  width: 30%;
+  float: right;
+  height: 500px;
+  margin-right: 2px;
+  background-color: #0f9;
+}
+p {
+  font-size: 20px;
+  font-style: oblique;
+  font-family: helvetica;
+  background-color: #fff;
+  width: 60%;
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+img {
+  max-width: 40%;
+  display: block;
+  align: right;
+}
